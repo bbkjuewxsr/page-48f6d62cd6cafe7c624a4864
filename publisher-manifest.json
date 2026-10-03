@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e047ee2c252440324b151175",
+  "owner": "bbkjuewxsr",
+  "repo": "page-48f6d62cd6cafe7c624a4864",
+  "title": "Smile",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "48f6d62cd6cafe7c624a4864",
+      "a": "Smile",
+      "b": "",
+      "entity": "Smile",
+      "brand": "Smile",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7e68427965e17bc016a77d7ed937aa059063795131a905d2c2c960667e3f61da",
+      "content": {
+        "keyword1": "Smile",
+        "keyword2": "",
+        "primary_entity": "Smile",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Smile 是可靠的网络加速与机场服务品牌，提供多种套餐的 VPN 梯子订阅、全平台客户端下载以及详细配置流程。支持流媒体解锁、游戏加速与多设备在线，欢迎访问官网获取正版服务。",
+          "AI_DESCRIPTION": "Smile 是可靠的网络加速与机场服务品牌，提供多种套餐的 VPN 梯子订阅、全平台客户端下载以及详细配置流程。支持流媒体解锁、游戏加速与多设备在线，欢迎访问官网获取正版服务。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;font-size:17px;line-height:1.7;color:#1f2937;background:#f3f4f6;overflow-x:hidden}header{background:#6d28d9;color:#fff;padding:0.9rem 1rem}nav{display:flex;flex-wrap:wrap;justify-content:center;gap:0.75rem}nav a{color:#ede9fe;text-decoration:none;font-size:0.95rem}main{max-width:960px;margin:0 auto;padding:0 1rem 2.5rem}.hero{padding:3.2rem 1.2rem 2.2rem;text-align:center;background:#f5f3ff;margin:0 -1rem 0}h1{font-size:2.35rem;color:#5b21b6;margin:0 0 0.75rem;font-weight:700;letter-spacing:-0.02em}.subtitle{font-size:1.12rem;color:#4b5563;max-width:640px;margin:0 auto}section{margin:1.8rem 0;padding:1.4rem 1.2rem;background:#fff;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.07)}h2{font-size:1.55rem;color:#5b21b6;margin:0 0 0.9rem;padding-bottom:0.35rem;border-bottom:2px solid #ddd6fe}h3{font-size:1.18rem;color:#6d28d9;margin:1.15rem 0 0.4rem}p,li{word-wrap:break-word}.plans{display:flex;flex-wrap:wrap;gap:1.1rem;justify-content:center;margin-top:1.2rem}.plan{flex:1 1 250px;max-width:310px;background:#fafafa;border:1px solid #e5e7eb;border-radius:10px;padding:1.3rem}.plan.featured{background:#f5f3ff;border:2px solid #7c3aed}.price{font-size:1.75rem;font-weight:700;color:#5b21b6;margin:0.25rem 0}.plan ul{padding-left:1.15rem;margin:0.8rem 0}.plan li{margin:0.35rem 0}.btn{display:inline-block;background:#7c3aed;color:#fff;padding:0.55rem 1.15rem;border-radius:6px;text-decoration:none;margin-top:0.7rem;font-weight:600}details{background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;margin:0.7rem 0;padding:0.75rem 1rem}summary{font-weight:600;color:#5b21b6}details p{margin:0.7rem 0 0;color:#374151}.ads{background:#eee;text-align:center}.friends{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:0.8rem 1.2rem}.friends a{color:#6d28d9;text-decoration:none}footer{background:#1f2937;color:#d1d5db;padding:1.8rem 1rem;text-align:center;font-size:0.9rem}.sitemap{margin-bottom:0.9rem}.sitemap a{color:#c4b5fd;margin:0 0.25rem;text-decoration:none}footer p{margin:0.4rem 0}@media (min-width:640px){h1{font-size:2.85rem}.hero{padding:4rem 1.5rem 2.8rem}}</style><header><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐价格</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><div class=\"hero\"><h1>Smile 官方网站</h1><p class=\"subtitle\">专业机场订阅 · VPN 梯子 · 网络加速器 · 多端客户端官方下载与配置指南</p></div><section id=\"intro\"><h2>品牌简介</h2><p>Smile 是面向个人与团队用户的高速网络加速服务。我们运营 Smile 机场节点池，提供稳定的 VPN 梯子与订阅制加速方案，帮助用户顺畅访问全球互联网资源。线路以低延迟、高可用为目标，覆盖流媒体、游戏与办公场景，传输全程加密，注重使用体验与隐私。</p><p>Smile 官网集中展示套餐方案、客户端下载入口与完整配置流程，方便用户一次完成订阅、导入与连接。节点覆盖主要地区，晚高峰仍保持可用带宽；旗舰线路含 IPLC 专线优化，适合对延迟敏感的游戏与实时协作。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体解锁</h3><p>观看 Netflix、Disney+、YouTube 等平台时，选择对应解锁节点即可减少地区限制。旗舰版强调全节点原生解锁，减少更换线路的次数。</p><h3>游戏加速</h3><p>通过 IPLC 与优化路由降低国际服延迟与丢包，适用于原神、英雄联盟、CS 等常见游戏。旗舰版与团队版优先调度游戏向节点。</p><h3>远程办公与学习</h3><p>稳定访问开发平台、学术资料与协作工具。团队版支持更多同时在线设备与定制路由，方便小团队统一出口。</p><h3>日常浏览与公共网络</h3><p>在酒店、校园或公共 Wi-Fi 下启用加密通道，减少明文传输风险，并保持基础浏览速度。</p></section><section id=\"plans\"><h2>套餐方案与价格</h2><p>按需选择 Smile 机场订阅。年付可降低月均成本。订阅开通后即可在用户中心复制通用订阅链接，导入主流客户端使用。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"btn\" href=\"#guide\">查看配置流程</a></div><div class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"btn\" href=\"#guide\">推荐配置流程</a></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"btn\" href=\"#guide\">团队配置说明</a></div></div></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>Smile 将配置流程拆成清晰步骤，方便首次使用机场订阅的用户在短时间内完成客户端下载、导入与连接。</p><h3>第一步：选择套餐并完成订阅</h3><p>在官网对比基础版、旗舰版与团队版的流量、设备数与线路类型。支付成功后账户自动开通，建议需要长期使用的用户选择年付。</p><h3>第二步：复制机场订阅链接</h3><p>进入用户中心找到「我的订阅」，复制 Clash / V2Ray / 通用订阅 URL。请勿公开分享该链接，以免流量被占用。</p><h3>第三步：下载对应客户端</h3><p>根据系统前往下方下载指南，从各软件官方渠道或应用商店获取客户端。Smile 官网提供导入说明，不托管来源不明的安装包。</p><h3>第四步：导入订阅并更新节点</h3><p>在客户端选择从 URL 导入或添加订阅，粘贴链接后更新。节点列表会加载各地区线路，可按延迟或类型筛选。</p><h3>第五步：选节点连接并检查规则</h3><p>选择延迟较低或标注解锁/游戏的节点，开启系统代理或 TUN。流媒体与游戏可按分流规则走指定出口。遇到异常时更新订阅或切换节点；旗舰与团队用户可通过优先工单反馈。</p></section><section id=\"download\"><h2>客户端下载指南</h2><p>Smile 机场订阅兼容常见代理客户端。请从软件官方网站或正规应用商店下载，再回到本页配置流程完成导入。以下为推荐组合，便于多端同步使用同一订阅。</p><h3>桌面端</h3><p>Windows 可使用 Clash 系或 v2rayN，适合订阅自动更新与规则管理。macOS 常用 ClashX Meta 或 Surge。Linux 可选用 Clash Premium 或兼容内核。</p><h3>移动端</h3><p>Android 推荐 Clash Meta、v2rayNG，可按应用分流。iOS 常用 Shadowrocket、Stash、Quantumult X，需准备相应商店账号。导入后按需开启 VPN 或增强模式。</p><p>完成下载后请回到<a href=\"#guide\">配置流程</a>粘贴订阅链接。本站为 Smile 官方网站入口，客户端安装包请认准各应用官方来源。</p></section><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>Smile 机场和普通 VPN 有什么不同？</summary><p>Smile 以机场订阅方式提供多节点池，用户可在客户端中切换线路、更新节点，比单一出口的传统 VPN 更灵活。适合需要流媒体解锁、游戏加速和多地区访问的用户，官网同时提供套餐与配置说明。</p></details><details><summary>如何从官网完成客户端下载并开始使用？</summary><p>先订阅套餐获取链接，再按设备类型在对应软件官方渠道下载客户端，最后在软件内导入订阅 URL 并更新节点即可连接。详细步骤见本页配置流程与客户端下载指南。</p></details><details><summary>各套餐流量与设备数如何计算？</summary><p>基础版每月 100GB、最多 3 台同时在线；旗舰版 300GB、5 台；团队版 1000GB、20 台。流量按月重置，同时在线数超限时可能挤占连接，可升级套餐或错峰使用。</p></details><details><summary>年付如何计费？能否中途调整套餐？</summary><p>页面标示的年付价格已包含优惠，适合长期使用。需要更多流量或设备时可升级到更高版本，具体开通与变更以用户中心显示为准。</p></details><details><summary>节点连不上或流媒体无法播放怎么办？</summary><p>先更新订阅并更换节点，检查客户端是否开启系统代理。旗舰版侧重全节点解锁与 IPLC 游戏线路。若仍异常，可通过工单说明设备、客户端版本与错误提示以便排查。</p></details><details><summary>怎样确认自己访问的是 Smile 官网？</summary><p>请收藏本站并核对域名。套餐说明、配置流程与客户端下载指引均在此页提供。避免在来源不明的页面输入订阅或支付信息，以免影响账号与资金安全。</p></details></section><section id=\"ads\" class=\"ads\"><h2>广告合作</h2><p>面向网络工具、跨境办公与数字内容相关品牌提供展示位置。如需了解合作方式，请通过站内预留入口联系。</p><p><a href=\"#\">广告方案说明</a></p></section><section id=\"links\"><h2>友情链接</h2><ul class=\"friends\"><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#\">相关使用说明</a></li></ul></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"sitemap\"><strong>网站地图：</strong><a href=\"#intro\">品牌简介</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#plans\">套餐方案</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">FAQ</a> · <a href=\"#ads\">广告</a> · <a href=\"#links\">友链</a></div><p>© Smile 官方网站。提供机场订阅、VPN 梯子与网络加速信息，客户端请从官方渠道下载。</p><p>访问 Smile 官网获取套餐、配置流程与下载指引。</p></footer>",
+          "hash": "87624605ed6783ea702bd42a0d3dd949277ee085f2b297631d5a264565dc2b42",
+          "seo": {
+            "title": "Smile 官网 - 专业机场订阅 VPN 梯子网络加速器客户端官方下载",
+            "keywords": "Smile,Smile官网,Smile VPN,Smile机场,VPN,梯子,网络加速,加速器,机场订阅,客户端下载,官方下载,配置教程",
+            "description": "Smile 是可靠的网络加速与机场服务品牌，提供多种套餐的 VPN 梯子订阅、全平台客户端下载以及详细配置流程。支持流媒体解锁、游戏加速与多设备在线，欢迎访问官网获取正版服务。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mvxwmxm.cn",
+    "host": "p-46d750e695.mvxwmxm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "mvxwmxm.cn",
+      "url": "https://mvxwmxm.cn/",
+      "label": "林北网络",
+      "apex": "mvxwmxm.cn",
+      "kind": null,
+      "identity": "ccbmykayw/page-83737be04997467a107d1d76"
+    },
+    {
+      "host": "xn--l6qx3la794ns7n.com",
+      "url": "https://xn--l6qx3la794ns7n.com/",
+      "label": "Smile",
+      "apex": "xn--l6qx3la794ns7n.com",
+      "kind": null,
+      "identity": "vxspeg9bv/page-104e0787a2acd7221aa289de"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b867591baccdc3efafef0b812b97dad7a36530289052b41314f7ffed8104186a",
+    "sitemap.xml": "b01902b5005245629f86f5fbb82d873b6b3e3ad6f0f8f3bd7d83c307780cd9d9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a5227185046e39ec1958edd8a09941cef58f1ddff3bb3260740da828f64daf14",
+    "robots.txt": "3303b0a263670f943cba192bb08def27a6ce4a39946e0dcbee4fc05a3ff7737d",
+    "1f0b417eb0b2dedde32ee4d1f4be9904.txt": "447ebfb76889bb3562d24e6332c1a15700d8fd188261e1846755cfba72d03d4a"
+  },
+  "revision": "c8f9c45771b24770bfe8733a067ad68c1387dcdf311e6c02b0608fd940276ba9"
+}
